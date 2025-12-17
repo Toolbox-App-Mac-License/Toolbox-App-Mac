@@ -1,7 +1,7 @@
 # Toolbox App – JetBrains Tool Manager
 
 <div align="center">  
-  <img src="https://images.seeklogo.com/logo-png/49/2/jetbrains-toolbox-app-logo-png_seeklogo-491759.png" width="250" alt="Toolbox App Logo"/>  
+  <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBbexWRDawTcmjRi2KZSCqj2WYqQa7UIz5WoKuwNCVnMoqnoLh_4Dj9YofGcqVqG5rxlt6o0YqMaCBXI1RWqN_5U-&format=source" width="250" alt="Toolbox App Logo"/>  
 </div>  
 
 <br>  
